@@ -71,7 +71,7 @@ const verticals: Vertical[] = [
     title: 'BCT AI Studio',
     icon: <Server className="w-8 h-8" />,
     description: 'Enabling AI innovation with secure,offline and local execution.',
-    image: 'https://media.istockphoto.com/id/2154346292/photo/3d-icon-illustration-of-ai-server-with-chip.jpg?s=1024x1024&w=is&k=20&c=0cqRUg8SPRt1xcJDklifPeuFQyMKNZbRgaJmPgUXBP8=',
+    image: 'https://media.istockphoto.com/id/2154346292/photo/3d-icon-illustration-of-ai-server-with-chip.jpg?b=1&s=612x612&w=0&k=20&c=0QMeaN9lVOkEZ0XH4LbyqBZ1WZQBfajQzbggP7zuEcc=',
     projects: [
       // ragEvaluatorProject, // Your integrated RAG project
       {
@@ -90,14 +90,14 @@ const verticals: Vertical[] = [
     title: 'BCT ML Studio',
     icon: <Server className="w-8 h-8" />,
     description: 'Build. Train. Experiment. Export.',
-    image: '/src/public/ml_studio.jpg',
+    image: 'https://media.istockphoto.com/id/2012393906/photo/big-data-analysis-with-ai-technology-person-using-machine-learning-and-deep-learning-neural.jpg?b=1&s=612x612&w=0&k=20&c=uiM_7sHvBrXlf4Ugap8gTO2O3nHyaQL7yjJM4LrekJo=',
     projects: [
       // ragEvaluatorProject, // Your integrated RAG project
       {
         id: 'ML-FLOW',
         name: 'ML Platform',
         description: 'From data to model—ready for your use',
-        image: "/src/public/ml_studio.jpg",
+        image: "https://media.istockphoto.com/id/2012393906/photo/big-data-analysis-with-ai-technology-person-using-machine-learning-and-deep-learning-neural.jpg?b=1&s=612x612&w=0&k=20&c=uiM_7sHvBrXlf4Ugap8gTO2O3nHyaQL7yjJM4LrekJo=",
         appUrl: 'https://ml-platform-train.onrender.com',
         integrationType: 'iframe',
         status: 'active',
@@ -107,7 +107,7 @@ const verticals: Vertical[] = [
         id: 'bottleneck',
         name: 'Service Performance Bottleneck Predictor',
         description: 'Track. Analyze. Optimize performance.',
-        image: "/src/public/bottleneck.jpg",
+        image: "https://media.istockphoto.com/id/2204098328/photo/ai-in-making-money-concept.jpg?b=1&s=612x612&w=0&k=20&c=Tsf586Mxt4mfiMZ5bRyhqZysC2LzQ-ZPgCN6-F71YoM=",
         appUrl: 'http://localhost:8501',
         integrationType: 'iframe',
         status: 'active',
@@ -118,7 +118,7 @@ const verticals: Vertical[] = [
         id: 'anamoly',
         name: 'Anamoly Detection',
         description: 'Track. Analyze. Optimize performance.',
-        image: "/src/public/bottleneck.jpg",
+        image: "https://lh3.googleusercontent.com/gg-dl/AJfQ9KQGud08YrcTmrcGv7-j5a1dcAy4kdU_cCkUch7dhqbJMS4zrZEBWFeCaVA9am7Hyo1X0ijXfwz-xTZ_9AAJco-8wPQjzPgJgpodG6EhFe3c2dhmekeYm5LTYeVidEe2fvSqvTI5WpEBBEoq0e5qsZlc9sAEa8zaakWtMzz9yaKjWdsKyQ=s1024",
         appUrl: 'https://anomaly-detection-pyto.onrender.com/',
         integrationType: 'iframe',
         status: 'active',
