@@ -78,7 +78,7 @@ const verticals: Vertical[] = [
         id: 'model',
         name: ' On-Premise LLM Service',
         description: 'Run and manage AI modls locally with full control and privacy',
-        image: "/src/public/ai_studio.jpg",
+        image: "https://media.istockphoto.com/id/2154346292/photo/3d-icon-illustration-of-ai-server-with-chip.jpg?b=1&s=612x612&w=0&k=20&c=0QMeaN9lVOkEZ0XH4LbyqBZ1WZQBfajQzbggP7zuEcc=",
         appUrl: 'https://on-prem-service.onrender.com/',
         integrationType: 'iframe',
         status: 'active',
