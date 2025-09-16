@@ -71,7 +71,7 @@ const verticals: Vertical[] = [
     title: 'BCT AI Studio',
     icon: <Server className="w-8 h-8" />,
     description: 'Enabling AI innovation with secure,offline and local execution.',
-    image: 'src/public/ai_studio.jpg',
+    image: 'https://media.istockphoto.com/id/2154346292/photo/3d-icon-illustration-of-ai-server-with-chip.jpg?s=1024x1024&w=is&k=20&c=0cqRUg8SPRt1xcJDklifPeuFQyMKNZbRgaJmPgUXBP8=',
     projects: [
       // ragEvaluatorProject, // Your integrated RAG project
       {
