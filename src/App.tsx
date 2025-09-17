@@ -39,7 +39,7 @@ const verticals: Vertical[] = [
         name: 'UI Code Refactorer',
         description: 'AI-powered interface design and development assistant',
         image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg',
-        appUrl: 'https://ui-code-gen.onrender.com/',
+        appUrl: 'https://ui-code-refact.onrender.com',
         integrationType: 'iframe',
         status: 'active',
         tags: ['ui', 'development']
